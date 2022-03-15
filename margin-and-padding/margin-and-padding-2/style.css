@@ -11,15 +11,18 @@ body {
 }
 
 .card > * {
-	color: rebeccapurple;
 	padding: 10px;
+	margin: auto;
 }
 
 .title {
 	background: #e3f4ff;
+	margin-bottom: 10px;
+	margin-top: 0px;
 }
 
 .content {
+	margin-bottom: 10px;
 	background: #e3f4ff;
 }
 
@@ -28,6 +31,7 @@ body {
 }
 
 button {
+	display: block;
 	background: white;
 	border: 1px solid #eee;
 }
