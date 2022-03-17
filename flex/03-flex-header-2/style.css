@@ -17,6 +17,19 @@ body {
 	justify-content: space-between;
 }
 
+.left {
+	display: flex;
+	flex: 0 1;
+	justify-content: flex-start;
+	margin-left: 8px;
+}
+
+.right {
+	display: flex;
+	flex: 0 1;
+	justify-content: flex-end;
+	margin-right: 8px;
+}
 .profile-image {
 	background: rebeccapurple;
 	box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.5);
