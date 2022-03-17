@@ -44,10 +44,11 @@ a {
 	/* this removes the line under our links */
 	text-decoration: none;
 	color: rebeccapurple;
-	padding: 10px;
+	flex: auto;
+	margin: 8px;
 }
 
-ul {
+.links {
 	display: flex;
 	list-style-type: none;
 	width: 300px;
