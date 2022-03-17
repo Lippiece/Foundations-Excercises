@@ -13,18 +13,19 @@
 	color: tomato;
 	background: white;
 	padding: 4px 32px;
+	margin: 10px;
 	flex: 0 1 0%;
 }
 
 .left-links {
 	display: flex;
 	flex: 0 1 0%;
-	justify-content: flex-start;
+	justify-content: start;
 }
 
 .right-links {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: end;
 	flex: 0 1 0%;
 }
 
@@ -35,12 +36,14 @@ ul {
 	display: flex;
 	flex-direction: row;
 	padding: 10px;
+	margin: 10px;
 }
 
 a {
 	font-size: 22px;
 	background: white;
-	padding: 8px;
+	padding: 10px;
+	margin: 10px;
 	/* this removes the line under the links */
 	text-decoration: none;
 }
