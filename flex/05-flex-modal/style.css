@@ -26,8 +26,19 @@ body {
 	gap: 16px;
 }
 
-.modal * {
-	margin: 8px;
+.header {
+	font-weight: bold;
+	font-size: larger;
+}
+
+.up-right {
+	display: flex;
+	justify-content: space-between;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
 }
 
 .icon {
