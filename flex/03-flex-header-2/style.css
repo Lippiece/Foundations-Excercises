@@ -64,7 +64,6 @@ a {
 .links {
 	display: flex;
 	list-style-type: none;
-	width: 300px;
-	justify-content: flex-start;
-	margin-left: 8px;
+	width: 280px;
+	padding-left: 8px;
 }
