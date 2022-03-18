@@ -8,8 +8,13 @@ img {
 }
 
 .title {
-  font-size: 36px;
-  font-weight: 900;
+	font-size: 36px;
+	font-weight: 900;
+	padding: 16px;
+}
+
+.text {
+	text-align: center;
 }
 
 /* do not edit this footer */
