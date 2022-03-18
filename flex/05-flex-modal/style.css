@@ -39,6 +39,12 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	flex-shrink: 0;
+}
+
+.text {
+	margin-top: 8px;
+	margin-bottom: 16px;
 }
 
 .close-button {
