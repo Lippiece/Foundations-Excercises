@@ -58,3 +58,8 @@ ul {
 	padding-right: 16px;
 	gap: 8px;
 }
+
+a {
+	text-decoration: none;
+	color: rgb(65, 65, 65);
+}
