@@ -44,3 +44,11 @@ input {
 	display: flex;
 	justify-content: space-between;
 }
+
+ul {
+	display: flex;
+	list-style: none;
+	padding-left: 16px;
+	padding-right: 16px;
+	gap: 8px;
+}
