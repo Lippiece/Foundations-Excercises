@@ -23,6 +23,8 @@ body {
 .sidebar {
 	width: 300px;
 	background: royalblue;
+	flex: 0 0 300px;
+	font-size: 24px;
 }
 
 .card {
