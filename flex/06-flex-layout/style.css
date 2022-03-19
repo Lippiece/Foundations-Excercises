@@ -21,6 +21,10 @@ body {
 	align-items: center;
 }
 
+.content * {
+	margin: 4px;
+}
+
 img {
 	width: 600px;
 }
